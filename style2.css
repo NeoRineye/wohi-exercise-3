@@ -1,6 +1,6 @@
 
 h2 {text-decoration: underline;}
 h2{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
-p{font-size: 17px;}
+p{font-size: 18px;} // modified css rule: from 17px to 18px
 p{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
 #right{float: right;}
